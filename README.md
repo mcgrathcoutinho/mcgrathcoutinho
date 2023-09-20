@@ -1,5 +1,9 @@
 ### Hi there👋 , I'm McGrath Coutinho
 
+#### About
+I'm a self-taught technologist
+
+
 - 🔭 I’m currently working on
   - Project Saitama - A NFT ticketing platform (currently private)
 - 🌱 I’m currently learning
