@@ -8,6 +8,7 @@ I'm a self-taught technologist, currently specializing in Smart Contract Securit
   - Project Saitama - A NFT ticketing platform (currently private - an upgrade of [TicketEx](https://github.com/mcgrathcoutinho/ticket-ex))
 - 🌱 I’m currently learning
   - Intricacies of the EVM and Yul
+  - Bug Hunting on Code4rena and Immunefi
   - Delving into ZK
 - 📝 Smart Contract Security profile 
   - [Code4rena](https://code4rena.com/@MrPotatoMagic) 
