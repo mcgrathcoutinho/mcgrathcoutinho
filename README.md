@@ -11,7 +11,7 @@ I'm a self-taught technologist, currently specializing in Smart Contract Securit
   - Bug Hunting on Code4rena and Immunefi
   - Delving into ZK
 - 📝 Smart Contract Security profile 
-  - [Code4rena](https://code4rena.com/@MrPotatoMagic) 
+  - [Code4rena](https://code4rena.com/@MrPotatoMagic) - Audited over 10+ protocols such as governance models, staking mechanisms, liquid staking derivatives and more.
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/McgrathCoutinho)
   - [LinkedIn](https://www.linkedin.com/in/mcgrathcoutinho/)
