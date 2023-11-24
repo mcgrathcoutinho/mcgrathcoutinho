@@ -10,7 +10,8 @@ I'm a self-taught technologist, currently specializing in Smart Contract Securit
   - Intricacies of the EVM and Yul
   - Bug Hunting on Code4rena and Immunefi
   - Delving into ZK
-- 📝 Smart Contract Security profile 
+- 📝 Smart Contract Security profile
+  - [Audit Portfolio](https://github.com/mcgrathcoutinho/audit-portfolio) - Portfolio of security reviews and findings by McGrath Coutinho
   - [Code4rena](https://code4rena.com/@MrPotatoMagic) - Audited over 10+ protocols with High-severity bugs found in governance models, staking mechanisms, liquid staking derivatives and cross-chain bridges.
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/McgrathCoutinho)
