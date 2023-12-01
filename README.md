@@ -6,6 +6,7 @@ I'm a self-taught technologist, currently specializing in Smart Contract Securit
 
 - 🔭 I’m currently working on
   - [Project Saitama](https://github.com/rpenn/saitama) - A NFT ticketing platform (an upgrade of [TicketEx](https://github.com/mcgrathcoutinho/ticket-ex))
+  - [ERCXP](https://github.com/mcgrathcoutinho/ERCXP) - ERC Experimental to experiment, play and audit OZ v0.5 contracts
 - 🌱 I’m currently learning
   - Intricacies of the EVM and Yul
   - Bug Hunting on Code4rena and Immunefi
