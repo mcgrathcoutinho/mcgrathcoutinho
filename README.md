@@ -10,7 +10,7 @@ I'm a self-taught technologist, currently specializing in Smart Contract Securit
 - 🌱 I’m currently learning
   - Intricacies of the EVM and Yul
   - Bug Hunting on Code4rena and Immunefi
-  - Delving into ZK through ZK bootcamp Q1 2024 by [Encode Club](https://twitter.com/encodeclub) (see [zk-encode](https://github.com/mcgrathcoutinho/zk-encode))
+  - Delving into ZK (see [zk-encode](https://github.com/mcgrathcoutinho/zk-encode))
 - 📝 Smart Contract Security profile
   - [Audit Portfolio](https://github.com/mcgrathcoutinho/audit-portfolio) - Portfolio of security reviews and findings by McGrath Coutinho
   - [Code4rena](https://code4rena.com/@MrPotatoMagic) - Audited over 10+ protocols with High-severity bugs found in governance models, staking mechanisms, liquid staking derivatives and cross-chain bridges.
