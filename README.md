@@ -13,7 +13,7 @@ I'm a self-taught technologist, currently specializing in Smart Contract Securit
   - Delving into ZK (see [zk-encode](https://github.com/mcgrathcoutinho/zk-encode))
 - 📝 Smart Contract Security profile
   - [Audit Portfolio](https://github.com/mcgrathcoutinho/audit-portfolio) - Portfolio of security reviews and findings by McGrath Coutinho
-  - [Code4rena](https://code4rena.com/@MrPotatoMagic) - Audited over 10+ protocols with High-severity bugs found in governance models, staking mechanisms, liquid staking derivatives and cross-chain bridges.
+  - [Code4rena](https://code4rena.com/@MrPotatoMagic) - Audited over 25+ protocols with High-severity bugs found in governance models, staking mechanisms, liquid staking derivatives and cross-chain bridges.
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/MrPotatoMagic)
   - [Lens](https://www.lensfrens.xyz/mcgrathcoutinho.lens)
